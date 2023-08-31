@@ -1,5 +1,2 @@
-let str = "Its master";
-let check = true;
-true && alert("you are");
-
-if (check) console.log("Baka");
+console.log("Its master branch");
+console.log("Its first commit");
