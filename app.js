@@ -4,3 +4,4 @@ console.log("Its feature branch in master branch");
 console.log("feature intial commit");
 console.log("second commit");
 console.log("third commit");
+console.log("4th commit");
